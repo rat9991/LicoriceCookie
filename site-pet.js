@@ -1,6 +1,6 @@
 function createSitePet(gfx) {
   if (!gfx) {
-    gfx = 'sprite';
+    gfx = 'LicoriceCookie.png';
   }
 
   const ANI = {
